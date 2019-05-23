@@ -31,6 +31,7 @@ def NB_classifier_model(train_xs, test_xs):
     return X_train, X_test
 
 
+# naive bayes classifier - feed the training data and predict the test data
 def NB_model(X_train, X_test, train_ys, test_ys):
     text_clf_MNB = MultinomialNB()
     text_clf_MNB.fit(X_train, train_ys)
@@ -39,6 +40,7 @@ def NB_model(X_train, X_test, train_ys, test_ys):
     return score
 
 
+# support vector machine - with given learning rate
 def SVM_model(X_train, X_test, train_ys, test_ys, args):
     text_clf_SVM = SGDClassifier(loss='hinge', penalty='none', alpha=args.lr, random_state=42)
     text_clf_SVM.fit(X_train, train_ys)
@@ -54,7 +56,7 @@ def main():
     df_test_file = DATA_PATH + TRAIN_FILE_NAME
 
     parser = argparse.ArgumentParser(description='Linear Classifier for Identify Addresses')
-    parser.add_argument('--lr', type=float, default=0.001, help='')
+    parser.add_argument('--lr', type=float, default=0.001, help='learning rate')
     parser.add_argument('--test', type=str, default=df_test_file, help='test file')
     args = parser.parse_args()
 
@@ -73,13 +75,13 @@ def main():
     # score for SVM
     SVM_score = SVM_model(X_train, X_test, train_ys, test_ys, args)
 
-    print('-----------------------------')
+    print('\n-----------------------------')
     print('Multinomial Naive Bayes (MNB)')
     print('MNB_Score = ' + str(NB_score))
 
     print('Support Vector Machine (SVM)')
     print('SVM Score = ' + str(SVM_score))
-    print('-----------------------------')
+    print('-----------------------------\n')
 
 
 if __name__ == '__main__':
