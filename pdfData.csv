@@ -1,109 +1,369 @@
 Document,Address,Name,Email,Phone #,Social Sec,Time
-20071040A.pdf,,,,,,"b'MARGINS: TOP 13 mm (1\xe2\x81\x842 ""), CENTER SIDES. _'"
-20071040A.pdf,,,,,,b'Separation 1 of 2: Black _'
-20071040A.pdf,,,,,,b'Separation 2 of 2: PMS 185 (RED) _'
-20071040A.pdf,,,,,b'011 00 2222 _',
-20071040A.pdf,b'1040 Main Street _',,,,,
-20071040A.pdf,"b'Home address (number and street). If you have a P.O. box, see page 15. _'",,,,,
-20071040A.pdf,,,,,,b'Married filing separately. Enter spouse\xe2\x80\x99s SSN above and _'
-20071040A.pdf,"b'Hometown, TX 77099 _'",,,,,
-20071040A.pdf,,,,,b'011 00 1111 _',
-20071040A.pdf,,,,,,"b'MARGINS: TOP 13 mm (1\xe2\x81\x842 "") (TO BLACK IMAGE), CENTER SIDES. PRINTS: HEAD to HEAD _'"
-20071040A.pdf,,,,,,b'Separation 1 of 2: Black _'
-20071040A.pdf,,,,,,b'Separation 2 of 2: PMS 185 (RED) _'
-20071040A.pdf,,,,,,"b'You were born before January 2, 1943, _'"
-20071040A.pdf,,,,,,"b'Spouse was born before January 2, 1943, _'"
-ETicketReceipt.pdf,,,,,,"b'Generated On Fri, 2 Mar 2012 14:35 GMT _'"
+1040.pdf,,,,,,"You were born before January 2, 1954 "
+1040.pdf,,,,,,"Spouse was born before January 2, 1954 "
+1040.pdf,"Home address (number and street). If you have a P.O. box, see instructions.  ",,,,,
+1040.pdf,Firm\xe2\x80\x99s address \xe2\x96\xb6 ,,,,,
+1040.pdf,,Privacy Act,,,,
+1040.pdf,,Paperwork Reduction Act Notice,,,,
+1040.pdf,,Attach,,,,
+1040.pdf,,Standard,,,,
+1040.pdf,,,,,,\xe2\x80\xa2 Single or married  
+1040.pdf,,,,,,\xe2\x80\xa2 Married filing   
+1040.pdf,,Standard,,,,
+1040.pdf,,Attach,,,,
+1040.pdf,,Standard,,,,
+1040.pdf,,Schedule,,,,
+1040.pdf,,Attach,,,,
+1040.pdf,,Sch,,,,
+20071040A.pdf,,,,,,"MARGINS: TOP 13 mm (1\xe2\x81\x842 ""), CENTER SIDES. "
+20071040A.pdf,,,,,,Separation 1 of 2: Black 
+20071040A.pdf,,,,,,Separation 2 of 2: PMS 185 (RED) 
+20071040A.pdf,,John,,,,
+20071040A.pdf,,,,,011 00 2222 ,
+20071040A.pdf,,Susan,,,,
+20071040A.pdf,1040 Main Street ,,,,,
+20071040A.pdf,"Home address (number and street). If you have a P.O. box, see page 15. ",,,,,
+20071040A.pdf,,Election,,,,
+20071040A.pdf,,Campaign,,,,
+20071040A.pdf,,,,,,Married filing separately. Enter spouse\xe2\x80\x99s SSN above and 
+20071040A.pdf,"Hometown, TX 77099 ",,,,,
+20071040A.pdf,,,,,011 00 1111 ,
+20071040A.pdf,,Schedule SE,,,,
+20071040A.pdf,,Attach,,,,
+20071040A.pdf,,Attach,,,,
+20071040A.pdf,,Attach,,,,
+20071040A.pdf,,Alaska Permanent Fund,,,,
+20071040A.pdf,,Attach,,,,
+20071040A.pdf,,Privacy Act,,,,
+20071040A.pdf,,Paperwork Reduction Act Notice,,,,
+20071040A.pdf,,,,,,"MARGINS: TOP 13 mm (1\xe2\x81\x842 "") (TO BLACK IMAGE), CENTER SIDES. PRINTS: HEAD to HEAD "
+20071040A.pdf,,,,,,Separation 1 of 2: Black 
+20071040A.pdf,,,,,,Separation 2 of 2: PMS 185 (RED) 
+20071040A.pdf,,Standard,,,,
+20071040A.pdf,,,,,,"You were born before January 2, 1943, "
+20071040A.pdf,,,,,,"Spouse was born before January 2, 1943, "
+20071040A.pdf,,Attach,,,,
+20071040A.pdf,,Attach,,,,
+20071040A.pdf,,Attach,,,,
+ETicketReceipt.pdf,,,,,,"Generated On Fri, 2 Mar 2012 14:35 GMT "
+ETicketReceipt.pdf,,Dear,,,,
+ETicketReceipt.pdf,,Silvia Zane,,,,
+ETicketReceipt.pdf,,Qatar Airways,,,,
+ETicketReceipt.pdf,,Ticket Number,,,,
 ETicketReceipt.pdf,,,,1572328102,,
-ETicketReceipt.pdf,,,,,,"b'Sun, 19 Aug 2012 15:05 _'"
-ETicketReceipt.pdf,,,,,,"b'Sun, 19 Aug 2012 23:50 _'"
-ETicketReceipt.pdf,,,,,,"b'Mon, 20 Aug 2012 01:50 _'"
-ETicketReceipt.pdf,,,,,,b'30-Nov-12 _'
-ETicketReceipt.pdf,,,,,,b'30-Nov-12 _'
-ETicketReceipt.pdf,,,,,,"b'Mon, 20 Aug 2012 14:40 _'"
-ETicketReceipt.pdf,,,,,,"b'Mon, 27 Aug 2012 01:55 _'"
-ETicketReceipt.pdf,,,,,,"b'Mon, 27 Aug 2012 05:40 _'"
-ETicketReceipt.pdf,,,,,,"b'Mon, 27 Aug 2012 07:55 _'"
-ETicketReceipt.pdf,,,,,,b'24-Aug-12 _'
-ETicketReceipt.pdf,,,,,,b'19-Feb-13 _'
-ETicketReceipt.pdf,,,,,,b'24-Aug-12 _'
-ETicketReceipt.pdf,,,,,,b'19-Feb-13 _'
-ETicketReceipt.pdf,,,,,,"b'Mon, 27 Aug 2012 13:15 _'"
-ETicketReceipt.pdf,,,,,,b'02-Mar-12 _'
+ETicketReceipt.pdf,,Fare,,,,
+ETicketReceipt.pdf,,Valid,,,,
+ETicketReceipt.pdf,,Qatar,,,,
+ETicketReceipt.pdf,,Qatar,,,,
+ETicketReceipt.pdf,,Qatar,,,,
+ETicketReceipt.pdf,,Qatar,,,,
+ETicketReceipt.pdf,,Ticket,,,,
+ETicketReceipt.pdf,,London Heathrow,,,,
+ETicketReceipt.pdf,,Airport,,,,
+ETicketReceipt.pdf,,,,,,"Sun, 19 Aug 2012 15:05 "
+ETicketReceipt.pdf,,Doha International Airport,,,,
+ETicketReceipt.pdf,,,,,,"Sun, 19 Aug 2012 23:50 "
+ETicketReceipt.pdf,,Doha International Airport,,,,
+ETicketReceipt.pdf,,,,,,"Mon, 20 Aug 2012 01:50 "
+ETicketReceipt.pdf,,,,,,30-Nov-12 
+ETicketReceipt.pdf,,,,,,30-Nov-12 
+ETicketReceipt.pdf,,,,,,"Mon, 20 Aug 2012 14:40 "
+ETicketReceipt.pdf,,Airport,,,,
+ETicketReceipt.pdf,,,,,,"Mon, 27 Aug 2012 01:55 "
+ETicketReceipt.pdf,,Doha International Airport,,,,
+ETicketReceipt.pdf,,,,,,"Mon, 27 Aug 2012 05:40 "
+ETicketReceipt.pdf,,Doha International Airport,,,,
+ETicketReceipt.pdf,,,,,,"Mon, 27 Aug 2012 07:55 "
+ETicketReceipt.pdf,,,,,,24-Aug-12 
+ETicketReceipt.pdf,,,,,,19-Feb-13 
+ETicketReceipt.pdf,,,,,,24-Aug-12 
+ETicketReceipt.pdf,,,,,,19-Feb-13 
+ETicketReceipt.pdf,,London Heathrow,,,,
+ETicketReceipt.pdf,,,,,,"Mon, 27 Aug 2012 13:15 "
+ETicketReceipt.pdf,,,,,,02-Mar-12 
+ETicketReceipt.pdf,,Qatar,,,,
+ETicketReceipt.pdf,,Heathrow Airport Office,,,,
+ETicketReceipt.pdf,,Heathrow,,,,
 ETicketReceipt.pdf,,,,8703898090,,
-ETicketReceipt.pdf,,,,,,"b'Generated On Fri, 2 Mar 2012 14:35 GMT _'"
+ETicketReceipt.pdf,,Economy,,,,
+ETicketReceipt.pdf,,Refund,,,,
+ETicketReceipt.pdf,,Economy,,,,
+ETicketReceipt.pdf,,Qatar Airways,,,,
+ETicketReceipt.pdf,,,,,,"Generated On Fri, 2 Mar 2012 14:35 GMT "
 ETicketReceipt.pdf,,Visa,,,,
 ETicketReceipt.pdf,,Visa Debit,,,,
 ETicketReceipt.pdf,,Master Card,,,,
 ETicketReceipt.pdf,,Master Card Debit,,,,
-NWCSampleInvoice.pdf,"b'Floor 100, 100 Main Street _'",,,,,
-NWCSampleInvoice.pdf,b'12 South Road _',,,,,
-NWCSampleInvoice.pdf,b'Globecity East _',,,,,
-NWCSampleInvoice.pdf,b'254 East Road _',,,,,
-NWCSampleInvoice.pdf,b'Globecity East _',,,,,
-NWCSampleInvoice.pdf,,,,,,b'STDInvoice.cfp6 \xe2\x88\x92 Sep2004 _'
-PDFInvoiceSample.pdf,b'123 Somewhere Street _',,,,,
-PDFInvoiceSample.pdf,b'Your City AZ 12345 _',,,,,
+ETicketReceipt.pdf,,Qatar Airways,,,,
+ETicketReceipt.pdf,,Qatar Airways,,,,
+NWCSampleInvoice.pdf,"Floor 100, 100 Main Street ",,,,,
+NWCSampleInvoice.pdf,,Mr.,,,,
+NWCSampleInvoice.pdf,,Graham H. Smith,,,,
+NWCSampleInvoice.pdf,12 South Road ,,,,,
+NWCSampleInvoice.pdf,Globecity East ,,,,,
+NWCSampleInvoice.pdf,,Mr.,,,,
+NWCSampleInvoice.pdf,,Christopher Jones,,,,
+NWCSampleInvoice.pdf,254 East Road ,,,,,
+NWCSampleInvoice.pdf,Globecity East ,,,,,
+NWCSampleInvoice.pdf,,Bamboo,,,,
+NWCSampleInvoice.pdf,,Cane,,,,
+NWCSampleInvoice.pdf,,Rug,,,,
+NWCSampleInvoice.pdf,,Black,,,,
+NWCSampleInvoice.pdf,,Dragon Vase,,,,
+NWCSampleInvoice.pdf,,Black,,,,
+NWCSampleInvoice.pdf,,Dragon Dinner Set,,,,
+NWCSampleInvoice.pdf,,Bamboo,,,,
+NWCSampleInvoice.pdf,,Cane,,,,
+NWCSampleInvoice.pdf,,Rug,,,,
+NWCSampleInvoice.pdf,,Black,,,,
+NWCSampleInvoice.pdf,,Dragon Vase,,,,
+NWCSampleInvoice.pdf,,,,,,STDInvoice.cfp6 \xe2\x88\x92 Sep2004 
+PDFInvoiceSample.pdf,123 Somewhere Street ,,,,,
+PDFInvoiceSample.pdf,Your City AZ 12345 ,,,,,
 PDFInvoiceSample.pdf,,,admin@slicedinvoices.com,,,
-PDFInvoiceSample.pdf,,,,,,"b'January 25, 2016 _'"
-PDFInvoiceSample.pdf,,,,,,"b'January 31, 2016 _'"
-PDFInvoiceSample.pdf,b'123 Somewhere St _',,,,,
+PDFInvoiceSample.pdf,,Order Number,,,,
+PDFInvoiceSample.pdf,,Due,,,,
+PDFInvoiceSample.pdf,,Total Due,,,,
+PDFInvoiceSample.pdf,,,,,,"January 25, 2016 "
+PDFInvoiceSample.pdf,,,,,,"January 31, 2016 "
+PDFInvoiceSample.pdf,123 Somewhere St ,,,,,
 PDFInvoiceSample.pdf,,,test@test.com,,,
-PDFInvoiceSample.pdf,,,,,,b'Payment is due within 30 days from date of invoice. Late payment is subject to fees of 5% per month. _'
+PDFInvoiceSample.pdf,,Sub,,,,
+PDFInvoiceSample.pdf,,Sub,,,,
+PDFInvoiceSample.pdf,,,,,,Payment is due within 30 days from date of invoice. Late payment is subject to fees of 5% per month. 
 PDFInvoiceSample.pdf,,,admin@slicedinvoices.com,,,
-QuotationSample.pdf,"b'7680 Universal Blvd - Suite 360 - Orlando, FL 32819 _'",,,,,
+QuotationSample.pdf,"7680 Universal Blvd - Suite 360 - Orlando, FL 32819 ",,,,,
 QuotationSample.pdf,,,,4072481481,,
 QuotationSample.pdf,,,,4072481482,,
 QuotationSample.pdf,,,sales@quotewerks.com,,,
-QuotationSample.pdf,"b'Orlando, FL 32819 _'",,,,,
+QuotationSample.pdf,,John,,,,
+QuotationSample.pdf,,Lewe,,,,
+QuotationSample.pdf,,Inc,,,,
+QuotationSample.pdf,"Orlando, FL 32819 ",,,,,
+QuotationSample.pdf,,Card,,,,
+QuotationSample.pdf,,Surround Sound,,,,
+QuotationSample.pdf,,Warranty,,,,
+QuotationSample.pdf,,Center,,,,
+QuotationSample.pdf,,Video Cable,,,,
+QuotationSample.pdf,,Structured,,,,
+QuotationSample.pdf,,Product,,,,
 QuotationSample.pdf,,,,4072481481,,
 QuotationSample.pdf,,,sales@quotewerks.com,,,
-QuotationSample.pdf,,,,,,"b'All information contained within this quote is valid for the next 30 days.  Thereafter, all prices and applicable charges are subject to change. _'"
-TicketSample.pdf,b'560 Rochester Street _',,,,,
-TicketSample.pdf,b'560 Rochester Street _',,,,,
-TicketSample.pdf,b'274 Main Street _',,,,,
-TicketSample.pdf,b'560 Rochester Street _',,,,,
+QuotationSample.pdf,,Unit,,,,
+QuotationSample.pdf,,Sub,,,,
+QuotationSample.pdf,,,,,,"All information contained within this quote is valid for the next 30 days.  Thereafter, all prices and applicable charges are subject to change. "
+TicketSample.pdf,,Mustard,,,,
+TicketSample.pdf,,Mustard,,,,
+TicketSample.pdf,,Terry,,,,
+TicketSample.pdf,,Angeles CA,,,,
+TicketSample.pdf,,Sydney Australia,,,,
+TicketSample.pdf,,Sydney,,,,
+TicketSample.pdf,,Australia Auckland New Zealand,,,,
+TicketSample.pdf,,Angeles CA Chicago IL,,,,
+TicketSample.pdf,,Mustard,,,,
+TicketSample.pdf,,Terry,,,,
+TicketSample.pdf,560 Rochester Street ,,,,,
+TicketSample.pdf,,Terry,,,,
+TicketSample.pdf,,Mustard,,,,
+TicketSample.pdf,560 Rochester Street ,,,,,
+TicketSample.pdf,,Insurco,,,,
+TicketSample.pdf,274 Main Street ,,,,,
+TicketSample.pdf,,Mustard,,,,
+TicketSample.pdf,,Terry,,,,
+TicketSample.pdf,560 Rochester Street ,,,,,
+TicketSample.pdf,,Airport Inn,,,,
+TicketSample.pdf,,Angeles,,,,
 TicketSample.pdf,,,,8005559977,,
-TicketSample.pdf,b'257 Woolongong Road _',,,,,
-TicketSample.pdf,b'560 Rochester Street _',,,,,
-TicketSample.pdf,b'2779 Airport Road _',,,,,
-TicketSample.pdf,b'560 Rochester Street _',,,,,
+TicketSample.pdf,,Sydney,,,,
+TicketSample.pdf,,Seasider Hotel,,,,
+TicketSample.pdf,257 Woolongong Road ,,,,,
+TicketSample.pdf,,Sydney,,,,
+TicketSample.pdf,,Accelio,,,,
+TicketSample.pdf,,Deluxe,,,,
+TicketSample.pdf,,Deluxe,,,,
+TicketSample.pdf,,Mustard,,,,
+TicketSample.pdf,,Terry,,,,
+TicketSample.pdf,560 Rochester Street ,,,,,
+TicketSample.pdf,2779 Airport Road ,,,,,
+TicketSample.pdf,,Accelio,,,,
+TicketSample.pdf,,Deluxe,,,,
+TicketSample.pdf,,Deluxe,,,,
+TicketSample.pdf,,Mustard,,,,
+TicketSample.pdf,,Terry,,,,
+TicketSample.pdf,560 Rochester Street ,,,,,
+TicketSample.pdf,,Airport Inn,,,,
+TicketSample.pdf,,Angeles,,,,
 TicketSample.pdf,,,,8005559977,,
+TicketSample.pdf,,Accelio,,,,
+TicketSample.pdf,,Deluxe,,,,
+TicketSample.pdf,,Terry,,,,
+TicketSample.pdf,,Mustard,,,,
+TicketSample.pdf,,Angeles CA,,,,
 TicketSample.pdf,,,,0011228,,
+TicketSample.pdf,,Terry,,,,
+TicketSample.pdf,,Mustard,,,,
+TicketSample.pdf,,Angeles CA,,,,
 TicketSample.pdf,,,,0011227,,
+TicketSample.pdf,,Terry,,,,
+TicketSample.pdf,,Mustard,,,,
+TicketSample.pdf,,Sydney,,,,
 TicketSample.pdf,,,,0011212,,
+TicketSample.pdf,,Terry,,,,
+TicketSample.pdf,,Mustard,,,,
+TicketSample.pdf,,Angeles CA,,,,
+TicketSample.pdf,,Sydney,,,,
 TicketSample.pdf,,,,0011127,,
+TicketSample.pdf,,Terry,,,,
+TicketSample.pdf,,Mustard,,,,
+TicketSample.pdf,,Angeles CA,,,,
 TicketSample.pdf,,,,0011126,,
+USVisaForm.pdf,,Photo,,,,
 USVisaForm.pdf,,Address,,,,
 USVisaForm.pdf,,Phone,,,,
 USVisaForm.pdf,,Passport Information,,,,
-USVisaForm.pdf,,,,,,b'01 JANUARY 1945  _'
-USVisaForm.pdf,b'34 SHANKAR LANE  _',,,,,
+USVisaForm.pdf,,Name,,,,
+USVisaForm.pdf,,Full,,,,
+USVisaForm.pdf,,Full,,,,
+USVisaForm.pdf,,Birth,,,,
+USVisaForm.pdf,,Taxpayer,,,,
+USVisaForm.pdf,,Address,,,,
+USVisaForm.pdf,,Postal,,,,
+USVisaForm.pdf,,Same,,,,
+USVisaForm.pdf,,Home,,,,
+USVisaForm.pdf,,Phone Number,,,,
+USVisaForm.pdf,,Work,,,,
+USVisaForm.pdf,,Phone Number,,,,
+USVisaForm.pdf,,Work Fax,,,,
+USVisaForm.pdf,,Passport,,,,
+USVisaForm.pdf,,Passport,,,,
+USVisaForm.pdf,,City,,,,
+USVisaForm.pdf,,,,,,01 JANUARY 1945  
+USVisaForm.pdf,34 SHANKAR LANE  ,,,,,
 USVisaForm.pdf,,,suresh@yahoo.com,,,
-USVisaForm.pdf,,,,,,b'10 JANUARY 2009  _'
-USVisaForm.pdf,,,,,,b'28 JANUARY 2019  _'
-USVisaForm.pdf,,,,,,b'29 JUNE 2010  _'
-USVisaForm.pdf,,,,,,b'6 MONTH(S)   _'
+USVisaForm.pdf,,,,,,10 JANUARY 2009  
+USVisaForm.pdf,,,,,,28 JANUARY 2019  
+USVisaForm.pdf,,,,,,29 JUNE 2010  
+USVisaForm.pdf,,,,,,6 MONTH(S)   
 USVisaForm.pdf,,,,7325551212,,
 USVisaForm.pdf,,,rahul@yahoo.com,,,
-USVisaForm.pdf,b'Is the address of the party paying for your trip the  _',,,,,
-USVisaForm.pdf,"b""Spouse's City of Birth:  _""",,,,,
+USVisaForm.pdf,,Principal,,,,
+USVisaForm.pdf,,Length Stay U.S.,,,,
+USVisaForm.pdf,,Name,,,,
+USVisaForm.pdf,,Person,,,,
+USVisaForm.pdf,Is the address of the party paying for your trip the  ,,,,,
+USVisaForm.pdf,,Home Mailing Address,,,,
+USVisaForm.pdf,,Address,,,,
+USVisaForm.pdf,,Postal,,,,
+USVisaForm.pdf,,Contact,,,,
+USVisaForm.pdf,,Person Name U.S.,,,,
+USVisaForm.pdf,,Contact,,,,
+USVisaForm.pdf,,Person Name U.S.,,,,
+USVisaForm.pdf,,Contact,,,,
+USVisaForm.pdf,,Phone Number,,,,
+USVisaForm.pdf,Spouse's City of Birth:  ,,,,,
 USVisaForm.pdf,,,rahul@yahoo.com,,,
-USVisaForm.pdf,,,,,,b'10 JANUARY 1933  _'
-USVisaForm.pdf,,,,,,b'10 FEBRUARY 1934  _'
-USVisaForm.pdf,,,,,,b'29 MARCH 1947  _'
-USVisaForm.pdf,b'SAME AS HOME ADDRESS  _',,,,,
-USVisaForm.pdf,b'2345 KHAR LANE  _',,,,,
-WellvibeQuotationForm.pdf,b'350 Main Street  _',,,,,
-WellvibeQuotationForm.pdf,"b'Dallas, TX 75201  _'",,,,,
-WellvibeQuotationForm.pdf,,,,,,b'Total  Due  (shown  above)  will  be  billed  within  30  days  of  the  Effective  Date.    Monthly  wire  _'
+USVisaForm.pdf,,,,,,10 JANUARY 1933  
+USVisaForm.pdf,,,,,,10 FEBRUARY 1934  
+USVisaForm.pdf,,,,,,29 MARCH 1947  
+USVisaForm.pdf,SAME AS HOME ADDRESS  ,,,,,
+USVisaForm.pdf,2345 KHAR LANE  ,,,,,
+USVisaForm.pdf,,Postal,,,,
+USVisaForm.pdf,,Month,,,,
+USVisaForm.pdf,,Salary Local Currency,,,,
+USVisaForm.pdf,,Have,,,,
+WellvibeQuotationForm.pdf,,Client,,,,
+WellvibeQuotationForm.pdf,350 Main Street  ,,,,,
+WellvibeQuotationForm.pdf,"Dallas, TX 75201  ",,,,,
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Spouse,,,,
+WellvibeQuotationForm.pdf,,Wire,,,,
+WellvibeQuotationForm.pdf,,Transfer Fee,,,,
+WellvibeQuotationForm.pdf,,Total Due,,,,
+WellvibeQuotationForm.pdf,,License,,,,
+WellvibeQuotationForm.pdf,,Annual Fee,,,,
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,,,,,Total  Due  (shown  above)  will  be  billed  within  30  days  of  the  Effective  Date.    Monthly  wire  
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
 WellvibeQuotationForm.pdf,,Master Subscription,,,,
 WellvibeQuotationForm.pdf,,License Agreement,,,,
 WellvibeQuotationForm.pdf,,Privacy Policy,,,,
-WellvibeQuotationForm.pdf,,,,,,"b'Effective Date: October 1, 2013  _'"
-WellvibeQuotationForm.pdf,,,,,,b'\xe2\x80\xa2 The Wellvibe Services is based on an Annual Contract Subscription Fee.   Monthly fees  _'
-WellvibeQuotationForm.pdf,,,,,,b'\xe2\x80\xa2  Wellvibe  may  modify  the  fees  and/or  invoice  Client  for  an  additional  amount  at  any  _'
-WellvibeQuotationForm.pdf,,,,,,b'\xe2\x80\xa2 Client will be invoiced annually within 30 days from completion of training.  For annual  _'
-WellvibeQuotationForm.pdf,,,,,,"b'contracts  in  excess  of  $50,000,  a  monthly  ACH  payment  option  is  available  (annual  _'"
-WellvibeQuotationForm.pdf,,,,,,b'2013  ClearMark  Plain  Language  Award.    EMMI  video  educational  content  is  an  _'
-WellvibeQuotationForm.pdf,,,,,,"b""Unlike existing HRA's, which rely on 25-year old technology and silo analysis of biomarkers,  _"""
+WellvibeQuotationForm.pdf,,,,,,"Effective Date: October 1, 2013  "
+WellvibeQuotationForm.pdf,,Name,,,,
+WellvibeQuotationForm.pdf,,Name,,,,
+WellvibeQuotationForm.pdf,,Name,,,,
+WellvibeQuotationForm.pdf,,Name,,,,
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Simply,,,,
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Health Risk Assessment,,,,
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Emmi Solutions,,,,
+WellvibeQuotationForm.pdf,,Dynamic Content,,,,
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Partner Solutions,,,,
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Single,,,,
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Wellvibe Price Market Guide,,,,
+WellvibeQuotationForm.pdf,,Wellvibe Administration,,,,
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Wellvibe Contract,,,,
+WellvibeQuotationForm.pdf,,Client,,,,
+WellvibeQuotationForm.pdf,,Client,,,,
+WellvibeQuotationForm.pdf,,Access Wellvibe Employer Resource,,,,
+WellvibeQuotationForm.pdf,,Client,,,,
+WellvibeQuotationForm.pdf,,Logos Due Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Bar,,,,
+WellvibeQuotationForm.pdf,,Client,,,,
+WellvibeQuotationForm.pdf,,Client,,,,
+WellvibeQuotationForm.pdf,,Client,,,,
+WellvibeQuotationForm.pdf,,Welcome Letter,,,,
+WellvibeQuotationForm.pdf,,Client,,,,
+WellvibeQuotationForm.pdf,,Client,,,,
+WellvibeQuotationForm.pdf,,Site,,,,
+WellvibeQuotationForm.pdf,,Users Client Administrator,,,,
+WellvibeQuotationForm.pdf,,Client,,,,
+WellvibeQuotationForm.pdf,,Client,,,,
+WellvibeQuotationForm.pdf,,Client,,,,
+WellvibeQuotationForm.pdf,,Employer Resource Website,,,,
+WellvibeQuotationForm.pdf,,Sample Reports,,,,
+WellvibeQuotationForm.pdf,,Support,,,,
+WellvibeQuotationForm.pdf,,Resource Management Tools,,,,
+WellvibeQuotationForm.pdf,,Census,,,,
+WellvibeQuotationForm.pdf,,Member FAQ,,,,
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Annual,,,,
+WellvibeQuotationForm.pdf,,Annual,,,,
+WellvibeQuotationForm.pdf,,,,,,\xe2\x80\xa2 The Wellvibe Services is based on an Annual Contract Subscription Fee.   Monthly fees  
+WellvibeQuotationForm.pdf,,,,,,\xe2\x80\xa2  Wellvibe  may  modify  the  fees  and/or  invoice  Client  for  an  additional  amount  at  any  
+WellvibeQuotationForm.pdf,,,,,,\xe2\x80\xa2 Client will be invoiced annually within 30 days from completion of training.  For annual  
+WellvibeQuotationForm.pdf,,,,,,"contracts  in  excess  of  $50,000,  a  monthly  ACH  payment  option  is  available  (annual  "
+WellvibeQuotationForm.pdf,,Literacy Solution,,,,
+WellvibeQuotationForm.pdf,,Video,,,,
+WellvibeQuotationForm.pdf,,Institute,,,,
+WellvibeQuotationForm.pdf,,Healthcare,,,,
+WellvibeQuotationForm.pdf,,,,,,2013  ClearMark  Plain  Language  Award.    EMMI  video  educational  content  is  an  
+WellvibeQuotationForm.pdf,,Wellvibe,,,,
+WellvibeQuotationForm.pdf,,Request A,,,,
+WellvibeQuotationForm.pdf,,Slim,,,,
+WellvibeQuotationForm.pdf,,Request A,,,,
+WellvibeQuotationForm.pdf,,Health,,,,
+WellvibeQuotationForm.pdf,,Health Pros,,,,
+WellvibeQuotationForm.pdf,,Request A,,,,
+WellvibeQuotationForm.pdf,,Science Technology,,,,
+WellvibeQuotationForm.pdf,,Request A,,,,
+WellvibeQuotationForm.pdf,,Health Risk,,,,
+WellvibeQuotationForm.pdf,,Request A,,,,
+WellvibeQuotationForm.pdf,,,,,,"Unlike existing HRA's, which rely on 25-year old technology and silo analysis of biomarkers,  "
+WellvibeQuotationForm.pdf,,Allostatix,,,,
+WellvibeQuotationForm.pdf,,Request A,,,,

@@ -155,11 +155,12 @@ if __name__ == '__main__':
         # fieldnames = ['Document', 'Address', 'Name', 'Email', 'Phone #', 'Social Sec', 'Time']
         def important(line):
             line = str(line.encode('utf-8'))
+            line = line[2:-2]
             timeTags = ["day", " sun", " mon", " tue", " wed", " thu", " fri", " sat", "jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
             for tag in timeTags:
                 if tag in line.lower() and any(char.isdigit() for char in line):
-                    print("Possible Date/Time Info: " + line)
-                    writer.writerow([pdf, '', '', '', '', '', line])
+                    print("Possible Date/Time Info: " + str(line))
+                    writer.writerow([pdf, '', '', '', '', '', str(line)])
                     return
             if (re.search("\d{3}( |-)*\d{3}( |-)*\d{4}", line)):
                 print("Possible Phone number: " + str(extract_phone_numbers(line)))
@@ -167,7 +168,7 @@ if __name__ == '__main__':
                     writer.writerow([pdf, '', '', '', num, '', ''])
             if re.search("[0-9]{3}( |-)[0-9]{2}( |-)[0-9]{4}", line):
                 print("Possible Social Sec Info:" + line)
-                writer.writerow([pdf, '', '', '', '', line, ''])
+                writer.writerow([pdf, '', '', '', '', str(line), ''])
             emailTags = [".com", ".edu", ".org", ".net"]
             for tag in emailTags:
                 if tag in line.lower() and '@' in line:
@@ -177,11 +178,11 @@ if __name__ == '__main__':
                     return
             nameTags = [" name", " mr", " ms", " mrs", " jr"]
             for tag in nameTags:
-                if tag in line.lower() and len(extract_names(line)) > 2:
+                if tag in line.lower() and len(str(extract_names(line))) > 2:
                     print("Possible Name Info: " + str(extract_names(line)))
                     for name in extract_names(line):
                         writer.writerow([pdf, '', name, '', '', '', ''])
-            if len(extract_names(line)) > 2:
+            if len(str(extract_names(line))) > 2:
                 print("Possible name Info: " + str(extract_names(line)))
                 for name in extract_names(line):
                     writer.writerow([pdf, '', name, '', '', '', ''])
@@ -189,11 +190,11 @@ if __name__ == '__main__':
             for tag in addressTags:
                 if tag in line.lower():
                     print("Possible Address Info:" + line)
-                    writer.writerow([pdf, line, '', '', '', '', ''])
+                    writer.writerow([pdf, str(line), '', '', '', '', ''])
                     return
             if re.search("[a-z]+, [a-z]{2} [0-9]+(-[0-9]+)*", line.lower()):
                 print("Possible Address Info:" + line)
-                writer.writerow([pdf, line, '', '', '', '', ''])
+                writer.writerow([pdf, str(line), '', '', '', '', ''])
                 return
 
         pdfList = ["1040.pdf", "20071040A.pdf", "ETicketReceipt.pdf", "NWCSampleInvoice.pdf", "PDFInvoiceSample.pdf", "QuotationSample.pdf", "TicketSample.pdf", "USVisaForm.pdf", "WellvibeQuotationForm.pdf"]
