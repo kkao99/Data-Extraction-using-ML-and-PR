@@ -1,3 +1,5 @@
+import os
+import argparse
 import numpy as np
 import pandas as pd
 
@@ -37,8 +39,8 @@ def NB_model(X_train, X_test, train_ys, test_ys):
     return score
 
 
-def SVM_model(X_train, X_test, train_ys, test_ys):
-    text_clf_SVM = SGDClassifier(loss='hinge', penalty='none', alpha=1e-3, random_state=42)
+def SVM_model(X_train, X_test, train_ys, test_ys, args):
+    text_clf_SVM = SGDClassifier(loss='hinge', penalty='none', alpha=args.lr, random_state=42)
     text_clf_SVM.fit(X_train, train_ys)
     predicted_SVM = text_clf_SVM.predict(X_test)
     score = np.mean(predicted_SVM == test_ys)
@@ -47,11 +49,20 @@ def SVM_model(X_train, X_test, train_ys, test_ys):
 
 def main():
 
+    ########## args parser ##########
+
+    df_test_file = DATA_PATH + TRAIN_FILE_NAME
+
+    parser = argparse.ArgumentParser(description='Linear Classifier for Identify Addresses')
+    parser.add_argument('--lr', type=float, default=0.001, help='')
+    parser.add_argument('--test', type=str, default=df_test_file, help='test file')
+    args = parser.parse_args()
+
     # training dataset
-    train_xs, train_ys = parse_data(DATA_PATH + TRAIN_FILE_NAME)
+    train_xs, train_ys = parse_data(DATA_PATH + args.test)
 
     # testing dataset
-    test_xs, test_ys = parse_data(DATA_PATH + TEST_FILE_NAME)
+    test_xs, test_ys = parse_data(DATA_PATH + args.test)
 
     # naive bayes classifer
     X_train, X_test = NB_classifier_model(train_xs, test_xs)
@@ -60,13 +71,15 @@ def main():
     NB_score = NB_model(X_train, X_test, train_ys, test_ys)
 
     # score for SVM
-    SVM_score = SVM_model(X_train, X_test, train_ys, test_ys)
+    SVM_score = SVM_model(X_train, X_test, train_ys, test_ys, args)
 
+    print('-----------------------------')
     print('Multinomial Naive Bayes (MNB)')
     print('MNB_Score = ' + str(NB_score))
 
     print('Support Vector Machine (SVM)')
     print('SVM Score = ' + str(SVM_score))
+    print('-----------------------------')
 
 
 if __name__ == '__main__':
