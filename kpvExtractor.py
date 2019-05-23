@@ -69,7 +69,7 @@ if __name__ == '__main__':
     Ideas:
     -Use distance formula with the given coordinates to help identify important information
     -Organize data into 2d array of line, x coord, y coord, number of appearances
-    -
+    -This code is so gross RIP
     """
 
     # raw = parser.from_file('USVisaForm.pdf')
