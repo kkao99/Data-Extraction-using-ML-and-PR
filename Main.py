@@ -16,7 +16,8 @@ from sklearn.linear_model import SGDClassifier
 
 DATA_PATH = "/Users/kevin/desktop/env/data/"
 # FILE_NAME = "zomato_address_only.csv"
-FILE_NAME = "zomato.csv"
+# FILE_NAME = "zomato.csv"
+FILE_NAME = "address.csv"
 
 '''
 def add_Y_to_file(file_name):
@@ -50,7 +51,7 @@ def main():
     vect = TfidfVectorizer()
 
     X_train = vect.fit_transform(train_data["Address"])
-    X_test = vect.fit_transform(test_data["Address"])
+    X_test = vect.transform(test_data["Address"])
 
     #################### Naive Bayes - Model ####################
 
@@ -61,12 +62,27 @@ def main():
 
     text_clf_MNB.fit(X_train, train_data["Is address"])
 
-    # TODO: ERROR!
     predicted_NB = text_clf_MNB.predict(X_test)
 
     # create an array of ones, whose length equal to the size of the test_data
     # test_is_address = np.ones((len(test_data),), dtype=int)
-    # NB_score = np.mean(predicted_NB == test_is_address)
+    NB_score = np.mean(predicted_NB == test_data["Is address"])
+
+    #################### Support Vector Machine - Model ####################
+
+    text_clf_SVM = SGDClassifier(loss='hinge', penalty='none', alpha=1e-3, random_state=42)
+
+    text_clf_SVM.fit(X_train, train_data["Is address"])
+    predicted_SVM = text_clf_SVM.predict(X_test)
+    SVM_score = np.mean(predicted_SVM == test_data["Is address"])
+
+    print(FILE_NAME)
+    print('Multinomial Naive Bayes (MNB)')
+    print('MNB_Score = ' + str(NB_score))
+
+    print('Support Vector Machine (SVM)')
+    print('SVM Score = ' + str(SVM_score))
+
 
 
 if __name__ == "__main__":
