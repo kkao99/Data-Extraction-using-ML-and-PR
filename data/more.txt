@@ -1,0 +1,186 @@
+Address,is_address
+"777 Brockton Avenue, Abington MA 2351",1
+"30 Memorial Drive, Avon MA 2322",1
+"250 Hartford Avenue, Bellingham MA 2019",1
+"700 Oak Street, Brockton MA 2301",1
+"66-4 Parkhurst Rd, Chelmsford MA 1824",1
+"591 Memorial Dr, Chicopee MA 1020",1
+"55 Brooksby Village Way, Danvers MA 1923",1
+"137 Teaticket Hwy, East Falmouth MA 2536",1
+"42 Fairhaven Commons Way, Fairhaven MA 2719",1
+"374 William S Canning Blvd, Fall River MA 2721",1
+"121 Worcester Rd, Framingham MA 1701",1
+"677 Timpany Blvd, Gardner MA 1440",1
+"337 Russell St, Hadley MA 1035",1
+"295 Plymouth Street, Halifax MA 2338",1
+"1775 Washington St, Hanover MA 2339",1
+"280 Washington Street, Hudson MA 1749",1
+"20 Soojian Dr, Leicester MA 1524",1
+"11 Jungle Road, Leominster MA 1453",1
+"301 Massachusetts Ave, Lunenburg MA 1462",1
+"780 Lynnway, Lynn MA 1905",1
+"70 Pleasant Valley Street, Methuen MA 1844",1
+"830 Curran Memorial Hwy, North Adams MA 1247",1
+"1470 S Washington St, North Attleboro MA 2760",1
+"506 State Road, North Dartmouth MA 2747",1
+"742 Main Street, North Oxford MA 1537",1
+"72 Main St, North Reading MA 1864",1
+"200 Otis Street, Northborough MA 1532",1
+"180 North King Street, Northhampton MA 1060",1
+"555 East Main St, Orange MA 1364",1
+"555 Hubbard Ave-Suite 12, Pittsfield MA 1201",1
+"300 Colony Place, Plymouth MA 2360",1
+"301 Falls Blvd, Quincy MA 2169",1
+"36 Paramount Drive, Raynham MA 2767",1
+"450 Highland Ave, Salem MA 1970",1
+"1180 Fall River Avenue, Seekonk MA 2771",1
+"1105 Boston Road, Springfield MA 1119",1
+"100 Charlton Road, Sturbridge MA 1566",1
+"262 Swansea Mall Dr, Swansea MA 2777",1
+"333 Main Street, Tewksbury MA 1876",1
+"550 Providence Hwy, Walpole MA 2081",1
+"352 Palmer Road, Ware MA 1082",1
+"3005 Cranberry Hwy Rt 6 28, Wareham MA 2538",1
+"250 Rt 59, Airmont NY 10901",1
+"141 Washington Ave Extension, Albany NY 12205",1
+"13858 Rt 31 W, Albion NY 14411",1
+"2055 Niagara Falls Blvd, Amherst NY 14228",1
+"101 Sanford Farm Shpg Center, Amsterdam NY 12010",1
+"297 Grant Avenue, Auburn NY 13021",1
+"4133 Veterans Memorial Drive, Batavia NY 14020",1
+"6265 Brockport Spencerport Rd, Brockport NY 14420",1
+"1201 Rt 300, Newburgh NY 12550",1
+"255 W Main St, Avon CT 6001",1
+"120 Commercial Parkway, Branford CT 6405",1
+"1400 Farmington Ave, Bristol CT 6010",1
+"161 Berlin Road, Cromwell CT 6416",1
+"67 Newton Rd, Danbury CT 6810",1
+"656 New Haven Ave, Derby CT 6418",1
+"69 Prospect Hill Road, East Windsor CT 6088",1
+"150 Gold Star Hwy, Groton CT 6340",1
+"900 Boston Post Road, Guilford CT 6437",1
+"2300 Dixwell Ave, Hamden CT 6514",1
+"495 Flatbush Ave, Hartford CT 6106",1
+"180 River Rd, Lisbon CT 6351",1
+"420 Buckland Hills Dr, Manchester CT 6040",1
+"1365 Boston Post Road, Milford CT 6460",1
+"1100 New Haven Road, Naugatuck CT 6770",1
+"315 Foxon Blvd, New Haven CT 6513",1
+"164 Danbury Rd, New Milford CT 6776",1
+"3164 Berlin Turnpike, Newington CT 6111",1
+"474 Boston Post Road, North Windham CT 6256",1
+"650 Main Ave, Norwalk CT 6851",1
+"680 Connecticut Avenue, Norwalk CT 6854",1
+"220 Salem Turnpike, Norwich CT 6360",1
+"655 Boston Post Rd, Old Saybrook CT 6475",1
+"625 School Street, Putnam CT 6260",1
+"80 Town Line Rd, Rocky Hill CT 6067",1
+"465 Bridgeport Avenue, Shelton CT 6484",1
+"235 Queen St, Southington CT 6489",1
+"150 Barnum Avenue Cutoff, Stratford CT 6614",1
+"970 Torringford Street, Torrington CT 6790",1
+"844 No Colony Road, Wallingford CT 6492",1
+"910 Wolcott St, Waterbury CT 6705",1
+"155 Waterford Parkway No, Waterford CT 6385",1
+"515 Sawmill Road, West Haven CT 6516",1
+"2473 Hackworth Road, Adamsville AL 35005",1
+"630 Coonial Promenade Pkwy, Alabaster AL 35007",1
+"2643 Hwy 280 West, Alexander City AL 35010",1
+"540 West Bypass, Andalusia AL 36420",1
+"5560 Mcclellan Blvd, Anniston AL 36206",1
+"1450 No Brindlee Mtn Pkwy, Arab AL 35016",1
+"1011 US Hwy 72 East, Athens AL 35611",1
+"973 Gilbert Ferry Road Se, Attalla AL 35954",1
+"1717 South College Street, Auburn AL 36830",1
+"701 Mcmeans Ave, Bay Minette AL 36507",1
+"750 Academy Drive, Bessemer AL 35022",1
+"312 Palisades Blvd, Birmingham AL 35209",1
+"1600 Montclair Rd, Birmingham AL 35210",1
+"5919 Trussville Crossings Pkwy, Birmingham AL 35235",1
+"9248 Parkway East, Birmingham AL 35206",1
+"1972 Hwy 431, Boaz AL 35957",1
+"10675 Hwy 5, Brent AL 35034",1
+"2041 Douglas Avenue, Brewton AL 36426",1
+"5100 Hwy 31, Calera AL 35040",1
+"1916 Center Point Rd, Center Point AL 35215",1
+"1950 W Main St, Centre AL 35960",1
+"16077 Highway 280, Chelsea AL 35043",1
+"1415 7Th Street South, Clanton AL 35045",1
+"626 Olive Street Sw, Cullman AL 35055",1
+"27520 Hwy 98, Daphne AL 36526",1
+"2800 Spring Avn SW, Decatur AL 35603",1
+"969 Us Hwy 80 West, Demopolis AL 36732",1
+"3300 South Oates Street, Dothan AL 36301",1
+"4310 Montgomery Hwy, Dothan AL 36303",1
+"600 Boll Weevil Circle, Enterprise AL 36330",1
+"3176 South Eufaula Avenue, Eufaula AL 36027",1
+"7100 Aaron Aronov Drive, Fairfield AL 35064",1
+"10040 County Road 48, Fairhope AL 36533",1
+"3186 Hwy 171 North, Fayette AL 35555",1
+"3100 Hough Rd, Florence AL 35630",1
+"2200 South Mckenzie St, Foley AL 36535",1
+"2001 Glenn Bldv Sw, Fort Payne AL 35968",1
+"340 East Meighan Blvd, Gadsden AL 35903",1
+"890 Odum Road, Gardendale AL 35071",1
+"1608 W Magnolia Ave, Geneva AL 36340",1
+"501 Willow Lane, Greenville AL 36037",1
+"170 Fort Morgan Road, Gulf Shores AL 36542",1
+"11697 US Hwy 431, Guntersville AL 35976",1
+"42417 Hwy 195, Haleyville AL 35565",1
+"1706 Military Street South, Hamilton AL 35570",1
+"1201 Hwy 31 NW, Hartselle AL 35640",1
+"209 Lakeshore Parkway, Homewood AL 35209",1
+"2780 John Hawkins Pkwy, Hoover AL 35244",1
+"5335 Hwy 280 South, Hoover AL 35242",1
+"1007 Red Farmer Drive, Hueytown AL 35023",1
+"2900 S Mem PkwyDrake Ave, Huntsville AL 35801",1
+"11610 Memorial Pkwy South, Huntsville AL 35803",1
+"2200 Sparkman Drive, Huntsville AL 35810",1
+"330 Sutton Rd, Huntsville AL 35763",1
+"6140A Univ Drive, Huntsville AL 35806",1
+"4206 N College Ave, Jackson AL 36545",1
+"1625 Pelham South, Jacksonville AL 36265",1
+"1801 Hwy 78 East, Jasper AL 35501",1
+"8551 Whitfield Ave, Leeds AL 35094",1
+"8650 Madison Blvd, Madison AL 35758",1
+"145 Kelley Blvd, Millbrook AL 36054",1
+"1970 S University Blvd, Mobile AL 36609",1
+"6350 Cottage Hill Road, Mobile AL 36609",1
+"101 South Beltline Highway, Mobile AL 36606",1
+"2500 Dawes Road, Mobile AL 36695",1
+"5245 Rangeline Service Rd, Mobile AL 36619",1
+"685 Schillinger Rd, Mobile AL 36695",1
+"3371 S Alabama Ave, Monroeville AL 36460",1
+"10710 Chantilly Pkwy, Montgomery AL 36117",1
+"3801 Eastern Blvd, Montgomery AL 36116",1
+"6495 Atlanta Hwy, Montgomery AL 36117",1
+"851 Ann St, Montgomery AL 36107",1
+"15445 Highway 24, Moulton AL 35650",1
+"517 West Avalon Ave, Muscle Shoals AL 35661",1
+"5710 Mcfarland Blvd, Northport AL 35476",1
+"2453 2Nd Avenue East, Oneonta AL 35121  205-625-647",1
+"2900 Pepperrell Pkwy, Opelika AL 36801",1
+"92 Plaza Lane, Oxford AL 36203",1
+"1537 Hwy 231 South, Ozark AL 36360",1
+"2181 Pelham Pkwy, Pelham AL 35124",1
+"165 Vaughan Ln, Pell City AL 35125",1
+"3700 Hwy 280-431 N, Phenix City AL 36867",1
+"1903 Cobbs Ford Rd, Prattville AL 36066",1
+"4180 Us Hwy 431, Roanoke AL 36274",1
+"13675 Hwy 43, Russellville AL 35653",1
+"1095 Industrial Pkwy, Saraland AL 36571",1
+"24833 Johnt Reidprkw, Scottsboro AL 35768",1
+"1501 Hwy 14 East, Selma AL 36703",1
+"7855 Moffett Rd, Semmes AL 36575",1
+"150 Springville Station Blvd, Springville AL 35146",1
+"690 Hwy 78, Sumiton AL 35148",1
+"41301 US Hwy 280, Sylacauga AL 35150",1
+"214 Haynes Street, Talladega AL 35160",1
+"1300 Gilmer Ave, Tallassee AL 36078",1
+"34301 Hwy 43, Thomasville AL 36784",1
+"1420 Us 231 South, Troy AL 36081",1
+"1501 Skyland Blvd E, Tuscaloosa AL 35405",1
+"3501 20th Av, Valley AL 36854",1
+"1300 Montgomery Highway, Vestavia Hills AL 35216",1
+"4538 Us Hwy 231, Wetumpka AL 36092",1
+"2575 Us Hwy 43, Winfield AL 3559",1

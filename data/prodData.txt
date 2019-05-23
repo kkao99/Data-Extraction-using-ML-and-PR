@@ -1,0 +1,16 @@
+Address,is_address
+"123 abc city nc stat 434",0
+"18847 nuasd doesn't look like address",0
+"not an address *dkf9ke jdjajd words add real words",0
+"283892 vulputate velit eget quam vulputate",0
+"450 Highland Ave, Salem MA 1970",0
+"3164 Berlin Turnpike, Newington CT 6111",0
+"474 Boston Post Road, North Windham CT 6256",1
+"650 Main Ave, Norwalk CT 6851",1
+"680 Connecticut Avenue, Norwalk CT 6854",1
+"220 Salem Turnpike, Norwich CT 6360",1
+"655 Boston Post Rd, Old Saybrook CT 6475",1
+"625 School Street, Putnam CT 6260",1
+"80 Town Line Rd, Rocky Hill CT 6067",1
+"465 Bridgeport Avenue, Shelton CT 6484",1
+"235 Queen St, Southington CT 6489",1
