@@ -1,10 +1,10 @@
-from tika import parser
-import PyPDF2
+#from tika import parser
+#import PyPDF2
 
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.pdfpage import PDFPage, PDFTextExtractionNotAllowed
 from pdfminer.converter import TextConverter, PDFPageAggregator, XMLConverter
-from pdfminer.layout import LAParams, LTTextBox, LTTextLine, LTFigure
+from pdfminer.layout import LAParams
 from pdfminer.pdfparser import PDFParser
 from pdfminer.pdfdocument import PDFDocument
 from pdfminer.pdfdevice import PDFDevice
@@ -15,57 +15,64 @@ import os
 import nltk
 from nltk.corpus import stopwords
 stop = stopwords.words('english')
-from io import StringIO, BytesIO
+# from io import StringIO, BytesIO
 
-"""
-Extract PDF text using PDFMiner. Adapted from
-http://stackoverflow.com/questions/5725278/python-help-using-pdfminer-as-a-library
-"""
-
-def pdf_to_xml(pdfname):
-    # PDFMiner boilerplate
-    rsrcmgr = PDFResourceManager()
-    bio = BytesIO()
-    codec = 'utf-8'
-    laparams = LAParams()
-    device = XMLConverter(rsrcmgr, bio, codec=codec, laparams=laparams)
-    interpreter = PDFPageInterpreter(rsrcmgr, device)
-    # Extract text
-    fp = open(pdfname, 'rb')
-    for page in PDFPage.get_pages(fp):
-        interpreter.process_page(page)
-    fp.close()
-    # Get text from StringIO
-    text = bio.getvalue()
-    # Cleanup
-    device.close()
-    bio.close()
-    return text
-
-
-def extract_text_from_pdf(pdf_path):
-    resource_manager = PDFResourceManager()
-    fake_file_handle = StringIO()
-    converter = TextConverter(resource_manager, fake_file_handle)
-    page_interpreter = PDFPageInterpreter(resource_manager, converter)
-
-    with open(pdf_path, 'rb') as fh:
-        for page in PDFPage.get_pages(fh,
-                                      caching=True,
-                                      check_extractable=True):
-            page_interpreter.process_page(page)
-
-        text = fake_file_handle.getvalue()
-
-    # close open handles
-    converter.close()
-    fake_file_handle.close()
-
-    if text:
-        return text
+# """
+# Extract PDF text using PDFMiner. Adapted from
+# http://stackoverflow.com/questions/5725278/python-help-using-pdfminer-as-a-library
+# """
+#
+# def pdf_to_xml(pdfname):
+#     # PDFMiner boilerplate
+#     rsrcmgr = PDFResourceManager()
+#     bio = BytesIO()
+#     codec = 'utf-8'
+#     laparams = LAParams()
+#     device = XMLConverter(rsrcmgr, bio, codec=codec, laparams=laparams)
+#     interpreter = PDFPageInterpreter(rsrcmgr, device)
+#     # Extract text
+#     fp = open(pdfname, 'rb')
+#     for page in PDFPage.get_pages(fp):
+#         interpreter.process_page(page)
+#     fp.close()
+#     # Get text from StringIO
+#     text = bio.getvalue()
+#     # Cleanup
+#     device.close()
+#     bio.close()
+#     return text
+#
+#
+# def extract_text_from_pdf(pdf_path):
+#     resource_manager = PDFResourceManager()
+#     fake_file_handle = StringIO()
+#     converter = TextConverter(resource_manager, fake_file_handle)
+#     page_interpreter = PDFPageInterpreter(resource_manager, converter)
+#
+#     with open(pdf_path, 'rb') as fh:
+#         for page in PDFPage.get_pages(fh,
+#                                       caching=True,
+#                                       check_extractable=True):
+#             page_interpreter.process_page(page)
+#
+#         text = fake_file_handle.getvalue()
+#
+#     # close open handles
+#     converter.close()
+#     fake_file_handle.close()
+#
+#     if text:
+#         return text
 
 if __name__ == '__main__':
-    raw = parser.from_file('USVisaForm.pdf')
+    """
+    Ideas:
+    -Use distance formula with the given coordinates to help identify important information
+    -Organize data into 2d array of line, x coord, y coord, number of appearances
+    -
+    """
+
+    # raw = parser.from_file('USVisaForm.pdf')
     #print(raw['content'])
     #print('\n')
     with open('pdfData.csv', mode='w') as csv_file:
